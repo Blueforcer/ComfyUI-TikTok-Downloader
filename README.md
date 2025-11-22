@@ -15,5 +15,5 @@ A simple and robust ComfyUI node to download TikTok videos directly into your wo
 1. Clone this repository into your ComfyUI custom_nodes folder:
    ```bash
    cd ComfyUI/custom_nodes
-   git clone https://github.com/DEIN_USERNAME/ComfyUI-TikTok-Downloader.git
+   git clone https://github.com/Blueforcer/ComfyUI-TikTok-Downloader
   ```
